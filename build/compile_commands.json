@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/mahmoud/Documents/02_Cmake_cpp/Numeric Library/build",
+  "command": "/usr/bin/c++  -I\"/home/mahmoud/Documents/02_Cmake_cpp/Numeric Library/includes\" -I\"/home/mahmoud/Documents/02_Cmake_cpp/Numeric Library/utils\" -g -o CMakeFiles/PRINT.dir/src/main.cpp.o -c \"/home/mahmoud/Documents/02_Cmake_cpp/Numeric Library/src/main.cpp\"",
+  "file": "/home/mahmoud/Documents/02_Cmake_cpp/Numeric Library/src/main.cpp"
+}
+]

@@ -1,0 +1,3 @@
+/home/mahmoud/Documents/02_Cmake_cpp/Numeric Library/build/CMakeFiles/PRINT.dir
+/home/mahmoud/Documents/02_Cmake_cpp/Numeric Library/build/CMakeFiles/edit_cache.dir
+/home/mahmoud/Documents/02_Cmake_cpp/Numeric Library/build/CMakeFiles/rebuild_cache.dir
