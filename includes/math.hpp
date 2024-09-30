@@ -13,14 +13,18 @@ class Custom {
         {
             return Custom( m_b + "-" +  s2.m_b);
         }
-        
+        string get_mb() const
+        {
+            return m_b;
+        }
+    private:
         std::string m_b;
 };
 
 // Overload the << operator for printing
 std::ostream& operator<<(std::ostream& output_stream, const Custom& c) {
     
-    output_stream << c.m_b;
+    output_stream << c.get_mb();
     return output_stream;
 }
 
